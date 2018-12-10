@@ -1,5 +1,5 @@
-#title: Welcome to the chuiyoung’s homepage!
+Welcome to the chuiyoung’s homepage!
 
-##description:Feel free to bookmark this to keep an eye on my project updates
+Feel free to bookmark this to keep an eye on my project updates
 
-### Welcome to GitHub Pages
+Welcome to GitHub Pages
